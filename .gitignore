@@ -1,0 +1,14 @@
+# Project exclude paths
+/node_modules/
+/.idea/**
+/.cache/
+/.config/
+/.npm/
+/.vscode/
+
+# Project exlude files
+config.js
+
+# Exclude logs
+/logs/**
+!/logs/.gitkeep
